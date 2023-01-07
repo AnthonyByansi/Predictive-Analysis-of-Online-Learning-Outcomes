@@ -24,6 +24,6 @@ In order to run this project, you will need to have the following software insta
 * This will train the model on the training data, and evaluate its performance on the testing data. The evaluation metrics will be printed to the console.
 
 ## Author
-(Byansi Anthony)[https://github.com/AnthonyByansi]
+[Byansi Anthony](https://github.com/AnthonyByansi)
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
