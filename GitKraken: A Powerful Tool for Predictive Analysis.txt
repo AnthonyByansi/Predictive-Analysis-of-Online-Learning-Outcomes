@@ -1,0 +1,19 @@
+First, you'll need to download and install GitKraken on your computer.
+
+Once you have GitKraken installed, create a new repository by clicking on the "+" button in the left-side menu, and then select "Create Repository."
+
+Give your repository a name, such as "Predictive-Analysis-of-Online-Learning-Outcomes," and select a location to store the repository on your local machine.
+
+Next, you'll need to create the files for your Predictive Analysis project. You can create these files using a text editor or a programming language of your choice.
+
+Once you have created your files, add them to your GitKraken repository. To do this, click on the "Files" tab and then click the "+" button to add your files.
+
+After adding the files, it's time to commit your changes. To do this, click on the "Commit" button in the top right corner of the GitKraken interface.
+
+In the "Commit Changes" dialog box, enter a descriptive message for your commit and then click "Commit."
+
+To see the history of your commits, click on the "History" tab in the GitKraken interface. This will give you a visual representation of all of your commits, and you can use it to track the changes you've made to your project over time.
+
+If you need to make changes to your code, you can do so by opening the relevant file, making the changes, and then committing the changes as described in steps 5-7.
+
+When you're ready to share your code with others, you can push your changes to a remote repository such as GitHub, GitLab, or Bitbucket. To do this, click on the "Push" button in the top right corner of the GitKraken interface.
